@@ -4,7 +4,8 @@
 <h3 align="center">Unity Developer,  from Ukraine ua</h3>
 
 #About the game
-Chernobyl Zombies" is a first-person shooter game set in the aftermath of the 1986 Chernobyl nuclear disaster.
+
+№Chernobyl Zombies" is a first-person shooter game set in the aftermath of the 1986 Chernobyl nuclear disaster.
 Player take on the role of a survivor struggling to survive in a world overrun by zombies mutated by radiation.
 The game begins During the last evacuation, with player trying to escape
 the contaminated area and navigate the harsh, irradiated city of the exclusion zone.
